@@ -7,7 +7,7 @@ public class GuessGame {
     public void startGame() {
         p1 = new Player();
         p2 = new Player();
-        p3 = new Player();
+        p3 = new  Player();
         int guessp1 = 0;
         int guessp2 = 0;
         int guessp3 = 0;
